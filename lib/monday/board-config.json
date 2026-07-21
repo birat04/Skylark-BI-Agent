@@ -1,0 +1,62 @@
+{
+  "workOrders": {
+    "boardId": "5030096359",
+    "columnIds": {
+      "Customer Name Code": "dropdown_mm5f11d1",
+      "Serial #": "dropdown_mm5fbvn1",
+      "Nature of Work": "color_mm5f7rwv",
+      "Last executed month of recurring project": "color_mm5fc615",
+      "Execution Status": "color_mm5fkwfd",
+      "Data Delivery Date": "date_mm5fs0fz",
+      "Date of PO/LOI": "date_mm5frtef",
+      "Document Type": "color_mm5fpxf2",
+      "Probable Start Date": "date_mm5fb2w2",
+      "Probable End Date": "date_mm5f9q8z",
+      "BD/KAM Personnel code": "color_mm5f34m9",
+      "Sector": "color_mm5frcdt",
+      "Type of Work": "color_mm5fs68v",
+      "Is any Skylark software platform part of the client deliverables in this deal?": "color_mm5f5cr5",
+      "Last invoice date": "date_mm5fnzg3",
+      "latest invoice no.": "dropdown_mm5fjc84",
+      "Amount in Rupees (Excl of GST) (Masked)": "numeric_mm5fk1g9",
+      "Amount in Rupees (Incl of GST) (Masked)": "numeric_mm5f11sc",
+      "Billed Value in Rupees (Excl of GST.) (Masked)": "numeric_mm5f1ba2",
+      "Billed Value in Rupees (Incl of GST.) (Masked)": "numeric_mm5f9dhd",
+      "Collected Amount in Rupees (Incl of GST.) (Masked)": "numeric_mm5fahfy",
+      "Amount to be billed in Rs. (Exl. of GST) (Masked)": "numeric_mm5fmary",
+      "Amount to be billed in Rs. (Incl. of GST) (Masked)": "numeric_mm5f4mwv",
+      "Amount Receivable (Masked)": "numeric_mm5fwr0f",
+      "AR Priority account": "color_mm5ft7e8",
+      "Quantity by Ops": "numeric_mm5fzmp5",
+      "Quantities as per PO": "dropdown_mm5fndre",
+      "Quantity billed (till date)": "numeric_mm5fgqen",
+      "Balance in quantity": "numeric_mm5fwwyj",
+      "Invoice Status": "color_mm5fjtkd",
+      "Expected Billing Month": "text_mm5fvejk",
+      "Actual Billing Month": "color_mm5fb4z1",
+      "Actual Collection Month": "text_mm5fmcxv",
+      "WO Status (billed)": "color_mm5fw1ee",
+      "Collection status": "text_mm5fvn95",
+      "Collection Date": "text_mm5fv13r",
+      "Billing Status": "color_mm5f6t3p"
+    },
+    "itemsImported": true
+  },
+  "deals": {
+    "boardId": "5030096372",
+    "columnIds": {
+      "Owner code": "color_mm5fr20k",
+      "Client Code": "dropdown_mm5fyyv3",
+      "Deal Status": "color_mm5f23xe",
+      "Close Date (A)": "date_mm5fkxgq",
+      "Closure Probability": "color_mm5fskms",
+      "Masked Deal value": "numeric_mm5ft4rb",
+      "Tentative Close Date": "date_mm5f10ty",
+      "Deal Stage": "color_mm5frxmq",
+      "Product deal": "color_mm5fh22h",
+      "Sector/service": "color_mm5fg1vs",
+      "Created Date": "date_mm5f1w49"
+    },
+    "itemsImported": true
+  }
+}
