@@ -100,3 +100,4 @@ See [`doc/architecture.md`](doc/architecture.md) §4 for the full annotated fold
 
 The source CSVs are **not cleaned** before import — intentionally. See [`doc/decision-log.md`](doc/decision-log.md) for why, and for the real data-quality findings from this specific dataset (missing-field rates, a duplicated-header artifact, the actual cross-board join key, and the real sector taxonomy).
 # Skylark-BI-Agent
+# Skylark-BI-Agent
